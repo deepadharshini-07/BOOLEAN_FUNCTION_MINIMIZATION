@@ -1,7 +1,7 @@
 ### Deepadharshini T
 ### 212224230052
 
-# Exp no : BOOLEAN FUNCTION MINIMIZATION
+# Exp no 2 : IMPLEMENTATION OF BOOLEAN FUNCTION 
 
 **AIM:**
 
